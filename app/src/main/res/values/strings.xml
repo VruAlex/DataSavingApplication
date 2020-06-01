@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DataSavingApplication</string>
+
+    <string name="Add_details">Add details</string>
+    <string name="AC">AC</string>
+    <string name="Alpha_champion">Alpha champion</string>
+    <string name="Investment_Ready">Investment Ready</string>
+    <string name="Register">Register your details a click</string>
+    <string name="Insert_data">Insert data</string>
+    <string name="Enter">Enter amounts on given category</string>
+    <string name="Current_balance">Current balance</string>
+    <string name="Current_Investment">Current Investment</string>
+    <string name="Salary_this_month">Salary this month</string>
+    <string name="Fixed_deposits">Fixed deposits</string>
+    <string name="Emergency_funds">Emergency funds</string>
+    <string name="Done">Done</string>
+    <string name="Update">Update amounts on given category</string>
+    <string name="Finance_Plan">Finance Plan</string>
+    <string name="Manage">Manage your account details</string>
+    <string name="text_balance">text balance</string>
+    <string name="UPDATE_DELETE">UPDATE / DELETE</string>
+
+</resources>
